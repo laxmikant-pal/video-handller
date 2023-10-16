@@ -1,2 +1,4 @@
 .cred.json
+*.lock
+*-lock.json
 .log
