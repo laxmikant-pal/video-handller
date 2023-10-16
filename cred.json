@@ -1,0 +1,14 @@
+{
+    "type": "service_account",
+    "project_id": "single-bonus-402113",
+    "private_key_id": "6c69732133656f70728cd7d4e346a3d930ebc29c",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDGwkmAEodls81s\nNX0vuAOlQmk7qd8jearhGR3kXwc48NYHA5p8NCzwnXcvPVKf7FXGYk6nx19zzx1n\nd2nUdLnSZ7D8ZP6swYMD9Srp6aM2E2p5pFa4YUWSC5b5rRfqCoiPMrZ9BfQQxfo1\n1xXWvhI8e+715P8iZHG5OW5lqcO7CE2GuIAzhLyfw/EDOl9kD8c4/UDT3NI/fdWA\nytxybh3SeP2Gfvx4MSMdy4mIZzNUpFEMOlxbWICW2sqT3XK3BqcUH150ntm53EGj\n0u8lqIZqOTv+g5v1Hzfe1nxT78/QFnmd2kwa3Soj4TCSUZkLLvmqyN4H6mWtIEPQ\nh2XBuQv3AgMBAAECggEABKb7jXHhlXHV9xhxa7KE81NQn0LkpDHu3AH4fyXyR1Tr\nzZI6BXo7Kw6kgYiP7Ipdn50hdi/mfhF1ALz8zypERzaCIAZFJ8oHxQnyDTOYzGU7\n8sjz9rDgLgDzcbipfKLue1uWheqjwdjAeI4mRraAOsYz27GWfzmWp90+Rkbo+/G1\nOeO56qQTwGcItpH757P1/u23vtPgsY8vHRnmrC0q7yae71Q4N5T61OzzrnJL0gfm\n3d64AyfF5NwO7PzmlzYGxYI0bB9sfnSLrzP7aTRQPctZjyJ5u/JtEDBPOR5S+0Eq\nGZvm5+RhLm1ViU4hhrv5phVovI4O4YknOVti8loq0QKBgQDwmg4LPuAunDfYbJse\nVBBYpRDBnGRX/Nzb+vB7lVNLECG72Ua9VZPjCH3H20U74cqfgyvrYDPvzN0ds443\nB2zkwq89JVTmP/JkQRNAt2RuKgoLbTPLXURzrpUOSRKJL/G7GKWii3seZjY0CyQU\ntYE5h4Dt2hQKtpBF0th+n560MwKBgQDTerEqIV5l4bShKl1sK7kOo1MvWum0bgn/\n0R2A5HltkwUipQRBK8KQNAvnKKFr4QpGGaWoaFId3gZjmz+dy4i9Y6HfgLZSnsnM\nvUFqJOIPOJNtkPjj4ZctOQnJ7JEo/ZL+zvfUpohAAgEay1JtKQl5CRIQj3+reA8H\n6zldqhglLQKBgB5Lh5Eq7Zdw3CdIJZAADb7bqex3ALuDf1vDkRw+hSpicZzxktKs\nP97KZuwPU/xiRd0n6xPMHT4IkZ73yORs7u0vBlmwpawISUEOYJo5fU/Rw0oFCgyF\nReU7ClGuKcNUYh+oztJUtb/yJskOzhA9enP/99/7IaLnserYzaHD/3u5AoGBAKz8\nZ3723Kip/371kIWzHiUDJEBQNWsJt9Qx0dhlC469/C1iniBRE02xxSrI6YG9CxJc\nWE1xR/p2avN/QoJowuloXjjcqEbc7GU1ShTxJpkcxjuRooWFOowbZA5wHC1TfrI/\nyimAL2NsQEsSldIFB2KiMMyrFNvF0UXA+6PKRwXhAoGBANS0tM/4ONb1vTiAwrMi\nC2t1bllgI5RIRiUL8Mj2lbL2oysIIHcxILfA0etlB149AwVsPgZ3qoYsTHmrUqoP\nSOrung2B0AnNk71+2H/b4mfJeHFCbr+PwokIX5CRKcyfWFbBCWLpLb787aDSa8tm\nvDLCQLiM4pWKqRat3WgFzYM/\n-----END PRIVATE KEY-----\n",
+    "client_email": "vidhandler@single-bonus-402113.iam.gserviceaccount.com",
+    "client_id": "110127064735952545202",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/vidhandler%40single-bonus-402113.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+  }
+ 
